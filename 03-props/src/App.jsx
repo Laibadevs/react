@@ -5,7 +5,7 @@ const App = () => {
     <>
       <div className="parent">
       <Card user="Hunaida" paragraph="hey i wanted to create a props in react js" />
-      <Card user="Laiba" paragraph=" Lorem ipsum dolor sit amet consectetur adipisicing elit."/>
+      <Card user="Laiba" paragraph=" Lorem ipsum dolor sit amet consectetur adipisicing elit. " img=''/>
       </div>
      
     </>
