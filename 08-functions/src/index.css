@@ -1,0 +1,27 @@
+input{
+  margin:10px;
+}
+.box
+{
+  height:200px;
+  width:200px;
+  background-color:brown;
+}
+.page1
+{
+  height:100vh;
+  width:100%;
+  background-color:grey;
+}
+.page2
+{
+  height:100vh;
+  width:100%;
+  background-color:brown;
+}
+.page3
+{
+  height:100vh;
+  width:100%;
+  background-color:purple;
+}
