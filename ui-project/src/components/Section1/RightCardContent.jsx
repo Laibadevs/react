@@ -8,9 +8,9 @@ const RightCardContent=(props)=>
                   {props.id+1}
                 </h2>
                 <div>
-                  <p className=" text-shadow-2xs text-xl text-white mb-12 leading-relaxed">
+                  <p className=" text-shadow-2xs text-md text-white mb-12 leading-relaxed ">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum hic
-                    obcaecati voluptatum ullam maiores alias
+                    obcaecati 
                   </p>
                   <div className="flex justify-between">
                     <button  style={{backgroundColor:props.color}}className= "text-white font-medium px-8 py-2 rounded-full ">{props.tag}</button>
