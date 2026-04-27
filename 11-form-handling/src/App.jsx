@@ -1,7 +1,7 @@
 import React from "react";
 const App=()=>
 {
-  //problem page reload everytime when submit so overcome this problem use preventdefault
+  //problem page reload everytime when submit so overcome this problem use preventdefault 
   const submitHandler=(e)=>
   {
   e.preventDefault()
