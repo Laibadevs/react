@@ -1,0 +1,10 @@
+html,body{
+  background-color: black;
+  color: white;
+}
+button
+{
+  height: 50px;
+  width: 100px;
+  color: black;
+}
